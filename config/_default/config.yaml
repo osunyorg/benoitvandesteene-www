@@ -19,3 +19,9 @@ params:
       options:
         image: false
         reading_time: true
+    single: 
+      options:
+        authors: false
+        reading_time: true
+        signature: true
+        updated_at: false

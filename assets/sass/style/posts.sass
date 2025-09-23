@@ -69,7 +69,14 @@
                                 padding: pxToRem(40) pxToRem(50)
         .block-siblings-navigation
             .block-content
-                padding-left: 0 !important
+                padding-left: offset(2) !important
+                width: columns(10)
+        .block-signatures
+            .block-content
+                padding-left: offset(2) !important
+                width: columns(8)
+            .signatures
+                border-top: 0
     @include media-breakpoint-down(desktop)
         .toc-cta
             border: none
