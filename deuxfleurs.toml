@@ -15,26 +15,26 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/actualites/2026-01-29-gagne-terrain-publicitaire/"
+from = "/actualites/2026-01-29-gagne-terrain-publicitaire/index.html"
 to = "/actualites/2006-06-01-culture-pub/"
 
 [[redirects]]
-from = "/actualites/2026-02-03-indemodable/"
+from = "/actualites/2026-02-03-indemodable/index.html"
 to = "/actualites/2006-01-01-indemodable/"
 
 [[redirects]]
-from = "/actualites/2026-01-06-lettre-ouverte-a-brigitte-macron/"
+from = "/actualites/2026-01-06-lettre-ouverte-a-brigitte-macron/index.html"
 to = "/actualites/2024-06-30-lettre-ouverte-a-brigitte-macron/"
 
 [[redirects]]
-from = "/actualites/2026-02-02-sabiap-pnb/"
+from = "/actualites/2026-02-02-sabiap-pnb/index.html"
 to = "/actualites/2006-06-01-sabiap-pnb/"
 
 [[redirects]]
-from = "/actualites/2026-02-02-breves-de-comptoir/"
+from = "/actualites/2026-02-02-breves-de-comptoir/index.html"
 to = "/actualites/2006-06-01-breves-de-comptoir/"
 
 [[redirects]]
-from = "/actualites/2026-01-29-culture-pub/"
+from = "/actualites/2026-01-29-culture-pub/index.html"
 to = "/actualites/2006-06-01-culture-pub/"
 
